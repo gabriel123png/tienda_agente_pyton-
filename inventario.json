@@ -1,0 +1,22 @@
+{
+  "Camisa": {
+    "precio": 45000,
+    "stock": 20
+  },
+  "Gorra": {
+    "precio": 30000,
+    "stock": 5
+  },
+  "Pantalón": {
+    "precio": 89000,
+    "stock": 12
+  },
+  "Medias": {
+    "precio": 8000,
+    "stock": 40
+  },
+  "Zapatos": {
+    "precio": 150000,
+    "stock": 3
+  }
+}
